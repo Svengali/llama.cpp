@@ -138,3 +138,4 @@ poetry.toml
 /.windsurf/
 # emscripten
 a.out.*
+layout_dump_temp.cpp
